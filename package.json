@@ -35,7 +35,7 @@
     "express": "~4.13.4",
     "express-session": "~1.13.0",
     "file-stream-rotator": "~0.0.6",
-    "forever": "~0.15.1",
+    "forever": "~4.0.0",
     "generate-password": "~1.1.1",
     "glob": "~7.0.0",
     "grunt": "0.4.5",
