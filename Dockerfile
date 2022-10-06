@@ -7,7 +7,7 @@
 # Compose:
 # docker-compose up -d
 
-FROM ubuntu:latest
+FROM ubuntu:22.04
 MAINTAINER MEAN.JS
 
 # Install Utilities
