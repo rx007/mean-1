@@ -7,7 +7,7 @@
 # Compose:
 # docker-compose up -d
 
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 MAINTAINER MEAN.JS
 
 # Install Utilities
